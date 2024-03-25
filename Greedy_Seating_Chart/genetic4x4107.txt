@@ -1,0 +1,52 @@
+4 4
+
+Veronica
+Yolanda
+Ursula
+Wallace
+Xavier
+Wendy
+Wayne
+Tyler
+Tammy
+Yvonne
+Stewart
+Tabitha
+Viola
+Tim
+Theodore
+Steven
+
+Wendy: Tim,Ursula,Wayne
+Ursula: Yolanda
+Tyler: Wayne,Wallace,Viola
+Wayne: 
+Viola: Tim
+Stewart: Yvonne,Theodore,Wendy
+Yvonne: 
+Steven: Theodore
+Yolanda: Veronica
+Tammy: Tyler,Yvonne,Xavier
+Xavier: Ursula,Wendy,Wayne
+Veronica: Yolanda
+Theodore: Stewart,Steven
+Tim: Yvonne
+Wallace: Ursula,Yolanda
+Tabitha: 
+
+Wendy: 
+Ursula: Tammy
+Tyler: Yvonne
+Wayne: Tim,Viola
+Viola: Wallace
+Stewart: Wallace,Yolanda
+Yvonne: Wallace
+Steven: Yvonne,Yolanda
+Yolanda: 
+Tammy: Theodore,Xavier
+Xavier: Tyler,Wallace
+Veronica: Theodore,Yolanda
+Theodore: Wallace,Yolanda,Veronica
+Tim: 
+Wallace: Tim
+Tabitha: Tammy,Yolanda

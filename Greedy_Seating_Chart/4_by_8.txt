@@ -1,0 +1,100 @@
+4 8
+
+Wendall
+Travis
+Timothy
+Trent
+Tracy
+Wendy
+Xavier
+Valerie
+Zelda
+Tricia
+Vicky
+Viola
+Theodore
+Yvonne
+Tammy
+Tom
+Yvette
+Ted
+Thomas
+William
+Tina
+Victor
+Tim
+Taylor
+Tony
+Tabitha
+Steven
+Trina
+Trevor
+Wayne
+Yolanda
+Tyler
+
+Wendall: Tracy,Tim,Tammy
+Travis: Wendall
+Timothy: Yvette
+Trent: Tina,Wendy,Wendall
+Tracy: Valerie,William,Xavier,Travis
+Wendy: Xavier,Victor
+Xavier: Viola,Tammy,Wayne,Tracy,Thomas
+Valerie: Tom,Theodore
+Zelda: Trevor,Trina
+Tricia: 
+Vicky: Tricia,Tracy,Tabitha
+Viola: Taylor
+Theodore: 
+Yvonne: Wendall
+Tammy: Tabitha
+Tom: Trent,Tim
+Yvette: 
+Ted: 
+Thomas: Wendall,Trent,Timothy,Zelda
+William: 
+Tina: Xavier,Timothy,Zelda
+Victor: Viola
+Tim: Trevor,Tony
+Taylor: 
+Tony: Ted,Victor,Tabitha
+Tabitha: Tim,Zelda
+Steven: Yvonne,Wendy,Travis
+Trina: Yolanda,Valerie
+Trevor: Trent,Timothy
+Wayne: 
+Yolanda: Trent,Tom,Theodore
+Tyler: Ted,Wendy
+
+Wendall: Tyler,Tim
+Travis: Wayne
+Timothy: 
+Trent: Trevor
+Tracy: 
+Wendy: 
+Xavier: Steven
+Valerie: 
+Zelda: Wayne
+Tricia: Tim
+Vicky: Zelda
+Viola: Ted
+Theodore: Yolanda,Tim
+Yvonne: Tony,Taylor
+Tammy: Zelda
+Tom: Steven,Thomas
+Yvette: Tim
+Ted: 
+Thomas: Viola
+William: 
+Tina: 
+Victor: 
+Tim: Tyler,Tracy
+Taylor: Trevor,Tina
+Tony: 
+Tabitha: Victor
+Steven: Vicky,Yvette
+Trina: 
+Trevor: 
+Wayne: Yolanda
+Yolanda: 
+Tyler: Vicky
